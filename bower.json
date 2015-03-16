@@ -1,0 +1,13 @@
+{
+  "name": "babel-polyfill",
+  "version": "1.0.0",
+  "homepage": "https://github.com/grammarly/babel-polyfill",
+  "authors": [
+    "Eugene Chechurin <eugene.chechurin@grammarly.com>"
+  ],
+  "main": "browser-polyfill.js",
+  "license": "MIT",
+  "ignore": [],
+  "dependencies": {}
+}
+

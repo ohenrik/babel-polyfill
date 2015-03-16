@@ -1,2 +1,2 @@
 # babel-polyfill
-standalone babel polyfill as a bower component 
+standalone babel polyfill with bower component 
